@@ -145,3 +145,9 @@ header .inner nav ul li {
     .cont01 .list .item>div h4 {font-size: 25px;}
     .cont01 .list .item>div p {font-size: 16px;}
 }
+@media all and (max-width:414px) {
+    .cont01 .list .item figure {height: 30vh; width: 100%;}
+    .cont01 .list .item>div h4 {font-size: 20px;}
+    .cont01 .list .item>div p {margin: 10px 30px;}
+    .cont01 .list .item>div a {font-size: 14px;}
+}
